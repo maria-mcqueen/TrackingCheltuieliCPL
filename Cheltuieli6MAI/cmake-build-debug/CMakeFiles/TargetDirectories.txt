@@ -1,0 +1,3 @@
+C:/Users/tenni/CLionProjects/incercarePOO_6mai/cmake-build-debug/CMakeFiles/incercarePOO_6mai.dir
+C:/Users/tenni/CLionProjects/incercarePOO_6mai/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tenni/CLionProjects/incercarePOO_6mai/cmake-build-debug/CMakeFiles/rebuild_cache.dir
